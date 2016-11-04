@@ -1,4 +1,4 @@
-[Anime]()  
+[Anime](https://github.com/hsiw/WishBot/wiki/Anime-Commands)  
 [Bot]()  
 [Cleverbot]()  
 [Interactions]()  
