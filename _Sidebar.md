@@ -1,2 +1,2 @@
 [**Home**]()  
-[**Commands**]()
+[**Commands**](https://github.com/hsiw/WishBot/wiki/Commands)
