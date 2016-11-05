@@ -1,6 +1,7 @@
 Call
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -8,6 +9,7 @@ Call
 Lenny
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -15,6 +17,7 @@ Lenny
 LetsPlay
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -22,6 +25,7 @@ LetsPlay
 SneakyLenny
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -29,6 +33,7 @@ SneakyLenny
 Weedle
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -36,6 +41,7 @@ Weedle
 WewLad
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
