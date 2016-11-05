@@ -1,6 +1,7 @@
 Changelog
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -8,6 +9,7 @@ Changelog
 Clean
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -15,6 +17,7 @@ Clean
 Donate
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -22,6 +25,7 @@ Donate
 FeatureRequest
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -29,6 +33,7 @@ FeatureRequest
 Help
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -36,6 +41,7 @@ Help
 Info
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -43,6 +49,7 @@ Info
 Invite
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -50,6 +57,7 @@ Invite
 Ping
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -57,6 +65,7 @@ Ping
 Stats
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -64,6 +73,7 @@ Stats
 WhoIs
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
