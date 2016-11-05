@@ -1,6 +1,7 @@
 Airing
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -8,6 +9,7 @@ Airing
 Anime
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -15,6 +17,7 @@ Anime
 Character
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -22,6 +25,7 @@ Character
 Dance
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -29,6 +33,7 @@ Dance
 HummingbirdLookup
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -36,6 +41,7 @@ HummingbirdLookup
 Lewd
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -43,6 +49,7 @@ Lewd
 Manga
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -50,6 +57,7 @@ Manga
 Profile
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -57,6 +65,7 @@ Profile
 Quote
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -64,6 +73,7 @@ Quote
 Smug
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
