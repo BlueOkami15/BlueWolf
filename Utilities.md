@@ -1,6 +1,7 @@
 8Ball
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -8,6 +9,7 @@
 Avatar
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -15,6 +17,7 @@ Avatar
 Calculate
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -22,6 +25,7 @@ Calculate
 CoinFlip
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -29,6 +33,7 @@ CoinFlip
 GuildIcon
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -36,6 +41,7 @@ GuildIcon
 Pick
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -43,6 +49,7 @@ Pick
 Roll
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
