@@ -1,6 +1,7 @@
 Hug
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -8,6 +9,7 @@ Hug
 Pat
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -15,6 +17,7 @@ Pat
 Poke
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -22,6 +25,7 @@ Poke
 Punt
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -29,6 +33,7 @@ Punt
 Slap
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
@@ -36,6 +41,7 @@ Slap
 Smite
 ===
 ###Description:
+###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
