@@ -1,80 +1,12 @@
-Airing
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Anime
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Character
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Dance
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-HummingbirdLookup
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Lewd
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Manga
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Profile
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Quote
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-Smug
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
+|      **Command**      |                                     **Usage**                                     |  **Aliases**  | **Cooldown** | **Delete on Use** | **Works in DM** |                                                                                                                                                            **Description**                                                                                                                                                           |
+|:-----------------:|:-----------------------------------------------------------------------------:|:---------:|:--------:|:-------------:|:-----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| airing            | airing [none] or [page number] or [anime] or [day of week] / today / tomorrow |    None   |    10s   |     False     |     True    | Returns a paged list of currently airing anime. Input the page number to see airing anime on that page. Return more specific details if an anime is specified. Pass "today" or "tomorrow" or a specific day of the week to get the currently airing anime for that day. Please note that time until airing is not 100% accurate. |
+| anime             | anime [anime title]                                                           |    None   |    10s   |     False     |     True    | Returns information about the inputted anime title using the Hummingbird Anime API                                                                                                                                                                                                                                               |
+| character         | character [character name]                                                    |    None   |    10s   |     False     |     True    | Returns basic information about the inputted character using the AniList API                                                                                                                                                                                                                                                     |
+| dance             | dance                                                                         |    None   |    5s    |     False     |     True    | The bot dances around in the current channel using a random dance gif                                                                                                                                                                                                                                                            |
+| hummingbirdlookup | hummingbirdlookup [username]                                                  | humlookup |    5s    |     False     |     True    | Returns info about the inputed Hummingbird Anime Profile                                                                                                                                                                                                                                                                         |
+| lewd              | lewd                                                                          |    None   |    5s    |     False     |     True    | Returns an image to use incase of lewdness.                                                                                                                                                                                                                                                                                      |
+| manga             | manga [manga title]                                                           |    None   |    10s   |     False     |     True    | Returns information about the inputted manga title using the AniList API                                                                                                                                                                                                                                                         |
+| profile           | profile [user] or profile edit [field] [input]                                |    None   |    5s    |     False     |     True    | Creates and edits a profile linked to your Discord account for use by the bot. Profiles can be called with a username/nickname/mention and will default to the users profile if nothing is inputted. Fields can be edited via "profile edit [field] [input]", and can be cleared via "profile edit [field]"                      |
+| quote             | quote                                                                         |    None   |    5s    |     False     |     True    |                                                                                                                                                                                                                                                                                                                                  |
+| smug              | smug                                                                          |    None   |    2s    |     False     |     True    | Returns a random image of a smug face.                                                                                                                                                                                                                                                                                           |
