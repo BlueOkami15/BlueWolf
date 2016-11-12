@@ -49,11 +49,17 @@ Returns the **result of the expression** passed. **Keep in mind** `*` is used fo
 #CoinFlip
 >
 ###Description:
+**Flips a coin** & returns heads or tails.
 ###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
+`flip`
+###Cooldown: 
+`2s` 
+###Delete On Use:
+`False`  
+###Works in DM's:
+`True`  
+###Usage:
+`coinflip`  
 
 
 #GuildIcon
@@ -69,18 +75,31 @@ Returns the **result of the expression** passed. **Keep in mind** `*` is used fo
 #Pick
 >
 ###Description:
+**Picks** from the inputted options. Options are **separated** by `|`.
 ###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
+`None`
+###Cooldown:
+`5s`  
+###Delete On Use:
+`False`  
+###Works in DM's:
+`True`  
 ###Usage:
+`pick [option 1] | [option 2] | ...`
 
   
 #Roll
 >
 ###Description:
+**Roll** a simulated die. A **die** is defined by `#d#` with `#` being **any** number between 1 and 999. Dice can be **added** and **subtracted** from one another. Constants can also be added to the expression, `1d6 + 10`.  
+**More info** can be found here: **<https://www.npmjs.com/package/dice-expression-evaluator>** 
 ###Aliases:
-###Cooldown:  
-###Delete On Use:  
+`dice`
+###Cooldown:
+`5s`  
+###Delete On Use: 
+`False 
 ###Works in DM's:  
+`True`
 ###Usage:  
+`roll [#d#] + ...`
