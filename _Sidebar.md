@@ -14,3 +14,5 @@
 * [**Tags**](https://github.com/hsiw/WishBot/wiki/Tags)  
 * [**Utilities**](https://github.com/hsiw/WishBot/wiki/Utilities)  
 * [**Wordplay**](https://github.com/hsiw/WishBot/wiki/Wordplay)
+
+![Yuki](http://i.imgur.com/3CnBnWp.png)
