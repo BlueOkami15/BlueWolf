@@ -49,12 +49,17 @@ Searches **Imgur** with the search terms, if no terms are inputted **Yuki Nagato
 #Urban
 >
 ###Description:
+Returns an **Urban Dictionary** definition for the searched terms. Also includes an **example**, a **link to the page**, the **author of the definition**, and the **thumbs up/down** of the definition.
 ###Aliases:
+`ud`
 ###Cooldown:  
+`5s`
 ###Delete On Use:  
+`False`
 ###Works in DM's:  
+`True`
 ###Usage:  
-
+`urban [search terms]`
 
 #Weather
 >
