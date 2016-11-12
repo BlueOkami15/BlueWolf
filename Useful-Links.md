@@ -3,3 +3,5 @@
 [**Bug/Issue Reporting**](https://github.com/hsiW/WishBot/issues)  
 [**One Time Donation**](https://www.paypal.me/WishBot)  
 [**Monthly Donation**](https://patreon.com/WishBot)
+
+![Yuki](http://i.imgur.com/sJ5QMWs.png)
