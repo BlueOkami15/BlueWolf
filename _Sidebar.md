@@ -4,7 +4,7 @@
 * [**Useful Links**](https://github.com/hsiw/WishBot/wiki/Useful-Links)
 * [**Commands**](https://github.com/hsiw/WishBot/wiki/Commands)  
 
-#Command Types
+#Command Categories
 * [**Anime**](https://github.com/hsiw/WishBot/wiki/Anime)  
 * [**Bot**](https://github.com/hsiw/WishBot/wiki/Bot)  
 * [**Cleverbot**](https://github.com/hsiw/WishBot/wiki/Cleverbot)  
