@@ -1,3 +1,5 @@
+**These commands are open source and can be found [here](https://github.com/hsiW/WishBot/tree/v6/commands/cleverbot).**
+
 Chat
 ===
 ###Description:
