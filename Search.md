@@ -1,53 +1,70 @@
-Gif
-===
+#Gif
+>
+###Description:
+Searches **Giphy **using the search terms and returns a **Random Gif**.
+###Aliases:
+`giphy`
+###Cooldown:
+`5s`  
+###Delete On Use:
+`True`  
+###Works in DM's:  
+`True`
+###Usage:  
+`gif [search]`
+
+#IImage
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-IImage
-===
+
+
+#Image
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Image
-===
+
+
+#Urban
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Urban
-===
+
+
+#Weather
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Weather
-===
+
+
+#Wiki
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Wiki
-===
-###Description:
-###Aliases:
-###Cooldown:  
-###Delete On Use:  
-###Works in DM's:  
-###Usage:  
-YouTube
-===
+
+
+#YouTube
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
