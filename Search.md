@@ -16,7 +16,7 @@ Searches **Giphy **using the search terms and returns a **Random Gif**.
 #IImage
 >
 ###Description:
-Searches **Imgur** with the search terms, if no terms are inputted Yuki Nagato is searched, and returns a **SFW image URL** as well as some additional info about the image. A **subreddit** can be searched using the format `/r/[subreddit]`.
+Searches **Imgur** with the search terms, if no terms are inputted Yuki Nagato is searched, and returns a **SFW image URL** as well as some **additional info** about the image. A **subreddit** can be searched using the format `/r/[subreddit]`.
 ###Aliases:
 `ii, iimg`
 ###Cooldown:  
