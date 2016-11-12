@@ -2,7 +2,6 @@
 * [**Home**](https://github.com/hsiw/WishBot/wiki)
 * [**FAQ**](https://github.com/hsiw/WishBot/wiki/FAQ)  
 * [**Useful Links**](https://github.com/hsiw/WishBot/wiki/Useful-Links)
-* [**Commands**](https://github.com/hsiw/WishBot/wiki/Commands)  
 
 #Command Categories
 * [**Anime**](https://github.com/hsiw/WishBot/wiki/Anime)  
