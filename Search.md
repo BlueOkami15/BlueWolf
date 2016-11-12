@@ -33,12 +33,18 @@ Searches **Imgur** with the search terms, if no terms are inputted Yuki Nagato i
 #Image
 >
 ###Description:
+Searches **Imgur** with the search terms, if no terms are inputted **Yuki Nagato** is searched, and returns a **SFW image URL**. A **subreddit** can be searched using the format `/r/[subreddit]`.
 ###Aliases:
+`image, img, imgur`
 ###Cooldown:  
+`5s`
 ###Delete On Use:  
+`False`
 ###Works in DM's:  
+`True`
 ###Usage:  
-
+`image [search terms]`  
+`image /r/[subreddit]`
 
 #Urban
 >
