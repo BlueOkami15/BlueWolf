@@ -16,7 +16,7 @@ Returns the **most recent change log** entry from the #changelog channel on the 
 #CheckPrefix
 >
 ###Description:
-Returns the **Current Prefix** for the Guild. **Overrides **current command prefix and will **always** work with the default prefix.
+Returns the **Current Prefix** for the Guild. **Overrides** current command prefix and will **always** work with the default prefix.
 ###Aliases:
 `None`
 ###Cooldown: 
