@@ -54,7 +54,7 @@ Returns basic information about the inputted character using the **AniList Chara
 #Dance
 >
 ###Description:
-The bot dances around in the current channel using a random dance gif
+The bot **dances** in the channel using a **random dance gif.**
 ###Aliases:
 `None`
 ###Cooldown:  
