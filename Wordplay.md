@@ -1,5 +1,3 @@
-**These commands are currently closed source.**
-
 #Pun
 >
 ###Description:
@@ -30,3 +28,5 @@ Returns a **random pun**.
 `True`
 ###Usage: 
 `reverse [text]`
+
+*These commands are currently closed source.*
