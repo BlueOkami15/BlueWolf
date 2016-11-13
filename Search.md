@@ -64,28 +64,46 @@ Returns an **Urban Dictionary** definition for the searched terms. Also includes
 #Weather
 >
 ###Description:
+Returns **Weather Information** for the inputted place using the **Open Weather Map API**. A country is **sometimes required** to return for the right location.
 ###Aliases:
-###Cooldown:  
+`None`
+###Cooldown:
+`10s`  
 ###Delete On Use:  
+`False`
 ###Works in DM's:  
+`True`
 ###Usage:  
+`weather [location]`
 
 
 #Wiki
 >
 ###Description:
+Returns a **Wikipedia link** for the searched terms.
 ###Aliases:
-###Cooldown:  
+`None`
+###Cooldown:
+`5s`  
 ###Delete On Use:  
+`False`
 ###Works in DM's:  
+`True`
 ###Usage:  
+`wiki [search terms]`
 
 
 #YouTube
 >
 ###Description:
+Searches **YouTube** using the search terms and returns the **first** link.
 ###Aliases:
-###Cooldown:  
+`yt`
+###Cooldown: 
+`5s` 
 ###Delete On Use:  
+`False`
 ###Works in DM's:  
+`True`
 ###Usage:  
+`youtube [search terms]`
