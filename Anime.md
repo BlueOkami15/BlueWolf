@@ -149,7 +149,7 @@ Returns information about the inputted manga title using the **AniList Manga API
 #Quote
 >
 ###Description:
-RReturns a random anime quote.
+Returns a **Random Anime Quote**.
 ###Aliases:
 `None`
 ###Cooldown:  
