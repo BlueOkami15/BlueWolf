@@ -96,7 +96,7 @@ The **help** function for the bot. Use `help` followed by the **command name** t
 #Info
 >
 ###Description:
-Returns **info** about the bot, including a link to the **support server** as well as a link to the bots **source code**.
+Returns **info** about the bot, including a link to the **support server**, a link to the bots **source code** & a link to the bots **documentation**.
 ###Aliases:
 `None`
 ###Cooldown:  
