@@ -11,12 +11,12 @@ Returns a paged list of currently airing anime. Input the page number to see air
 ###Works in DM's:  
 `True`
 ###Usage:
-`airing [page number]`
-`airing [anime]`  
-`airing [day of week]`
-`airing today`
-`airing tomorrow`
-`airing`
+`airing [page number]`  
+`airing [anime]`   
+`airing [day of week]`  
+`airing today`  
+`airing tomorrow`  
+`airing`  
 
 
 #Anime
@@ -127,20 +127,20 @@ Returns information about the inputted manga title using the **AniList Manga API
 ###Works in DM's:  
 `True`
 ###Usage:
-`profile [user]` - Call users profile
-`profile edit [field] [input]` - Edits the passed field
+`profile [user]` - Call users profile  
+`profile edit [field] [input]` - Edits the passed field  
 ###Fields/Character Limits:
-`[Name] (32 chars)`
-`[Status] (64 chars)`
-`[Birthday] (16 chars)`
-`[Age] (8 chars)`
-`[Location] (Emoji Flag)`
-`[AnimePlanet] (20 chars)`
-`[Hummingbird] (20 chars)`
-`[MyAnimeList] (16 chars)`
-`[Twitch] (25 chars)`
-`[Youtube] (20 chars)`
-`[Bio] (1000 chars)`
+`[Name] (32 chars)`  
+`[Status] (64 chars)`  
+`[Birthday] (16 chars)`  
+`[Age] (8 chars)`  
+`[Location] (Emoji Flag)`  
+`[AnimePlanet] (20 chars)`  
+`[Hummingbird] (20 chars)`  
+`[MyAnimeList] (16 chars)`  
+`[Twitch] (25 chars)`  
+`[Youtube] (20 chars)`  
+`[Bio] (1000 chars)`  
 
 
 
