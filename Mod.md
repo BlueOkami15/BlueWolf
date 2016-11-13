@@ -8,7 +8,7 @@
 ###Usage:  
 
 
-#Prefix
+#SetPrefix
 >
 ###Description:
 ###Aliases:
