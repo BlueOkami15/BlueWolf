@@ -18,7 +18,6 @@ Returns a **paged list** of **currently airing anime**. Input the page **number*
 `airing tomorrow`  
 `airing`  
 
-
 #Anime
 >
 ###Description:
@@ -33,7 +32,6 @@ Returns information about the inputted anime title using the **Hummingbird Anime
 `True`
 ###Usage:
 `anime [anime title]`
-
 
 #Character
 >
@@ -50,7 +48,6 @@ Returns basic information about the inputted character using the **AniList Chara
 ###Usage:
 `character [character name]`
 
-
 #Dance
 >
 ###Description:
@@ -65,7 +62,6 @@ The bot **dances** in the channel using a **random dance gif.**
 `True`
 ###Usage:
 `dance`
-
 
 #Hummingbirdlookup
 >
@@ -82,7 +78,6 @@ Returns info about the inputted **Hummingbird Anime Profile**.
 `True`
 ###Usage:
 `hummingbirdlookup [username]`
-
 
 #Lewd
 >
@@ -114,7 +109,6 @@ Returns information about the inputted manga title using the **AniList Manga API
 ###Usage:
 `manga [manga title]`
 
-
 #Profile
 >
 ###Description:
@@ -145,7 +139,6 @@ Returns information about the inputted manga title using the **AniList Manga API
 `profile [user]` - Call users profile  
 `profile edit [field] [input]` - Edits the passed field  
 
-
 #Quote
 >
 ###Description:
@@ -161,12 +154,10 @@ Returns a **Random Anime Quote**.
 ###Usage:
 `quote`
 
-
-
 #Smug
 >
 ###Description:
-Returns a random image of a smug face.
+Returns a **Random Smug Face** image.
 ###Aliases:
 `None`
 ###Cooldown:  
