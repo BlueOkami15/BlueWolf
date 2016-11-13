@@ -87,7 +87,7 @@ Returns info about the inputted **Hummingbird Anime Profile**.
 #Lewd
 >
 ###Description:
-Returns an image to use incase of lewdness.
+Returns an image to use **in case of lewdness**.
 ###Aliases:
 `None`
 ###Cooldown:  
