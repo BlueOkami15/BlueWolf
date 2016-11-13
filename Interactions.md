@@ -1,48 +1,61 @@
-Hug
-===
+#Hug
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Pat
-===
+
+
+#Pat
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Poke
-===
+
+
+#Poke
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Punt
-===
+
+
+#Punt
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Slap
-===
+
+
+#Slap
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Smite
-===
+
+
+#Smite
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
+
+---
+*These commands are currently closed source.*
