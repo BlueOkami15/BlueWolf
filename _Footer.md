@@ -1,1 +1,1 @@
-Wiki by Mei & Vivian | Copyright ©2016
+Wiki by Mei & Vivian | ![Yuki](http://i.imgur.com/9E8clEN.png) | Copyright ©2016
