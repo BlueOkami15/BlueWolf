@@ -29,4 +29,5 @@ Returns a **random pun**.
 ###Usage: 
 `reverse [text]`
 
+---
 *These commands are currently closed source.*
