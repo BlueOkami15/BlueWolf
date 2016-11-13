@@ -1,77 +1,95 @@
-Changelog
-===
+#Changelog
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Clean
-===
+
+
+#Clean
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Donate
-===
+
+
+#Donate
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-FeatureRequest
-===
+
+
+#FeatureRequest
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Help
-===
+
+
+#Help
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Info
-===
+
+
+#Info
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Invite
-===
+
+
+#Invite
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Ping
-===
+
+
+#Ping
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Stats
-===
+
+
+#Stats
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-WhoIs
-===
+
+
+#WhoIs
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
