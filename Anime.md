@@ -1,7 +1,7 @@
 #Airing
 >
 ###Description:
-Returns a paged list of currently airing anime. Input the page number to see airing anime on that page. Return more specific details if an anime is specified. Pass "today" or "tomorrow" or a specific day of the week to get the currently airing anime for that day. Please note that time until airing is not 100% accurate.
+Returns a **paged list** of **currently airing anime**. Input the page **number** to see airing anime on that page. Returns more **specific details** if an anime is specified. Pass **today**, **tomorrow** or a **specific day of the week** to get the currently airing anime for that day. 
 ###Aliases:
 `None`
 ###Cooldown:  
