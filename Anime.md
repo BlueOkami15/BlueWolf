@@ -70,7 +70,8 @@ The bot **dances** in the channel using a **random dance gif.**
 #Hummingbirdlookup
 >
 ###Description:
-Returns info about the inputted **Hummingbird Anime Profile**. **https://hummingbird.me/**
+Returns info about the inputted **Hummingbird Anime Profile**.  
+**https://hummingbird.me/**
 ###Aliases:
 `humlookup`
 ###Cooldown:  
