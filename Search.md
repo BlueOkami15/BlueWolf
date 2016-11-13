@@ -107,3 +107,6 @@ Searches **YouTube** using the search terms and returns the **first** link.
 `True`
 ###Usage:  
 `youtube [search terms]`
+
+---
+*These commands are currently closed source.*
