@@ -1,21 +1,25 @@
-Chan
-===
+#Chan
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-ChanInfo
-===
+
+
+#ChanInfo
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-GetOldChans
-===
+
+
+#GetOldChans
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
