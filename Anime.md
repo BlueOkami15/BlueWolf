@@ -118,6 +118,20 @@ Returns information about the inputted manga title using the **AniList Manga API
 >
 ###Description:
 **Create** and **Edit** a profile linked to your **Discord Account** for use with the bot. Profiles can be called with a **username/nickname/mention**, but will default to the **message authors** profile if nothing is passed. Fields can be edited via profile edit [field] [input], and can be **reset** via profile edit [field]. URL's can be used in a field if surrounded by < & >. 
+###Fields/Character Limits:
+```markdown
+[Name](32 chars)  
+[Status](64 chars)  
+[Birthday](16 chars)
+[Age](8 chars)
+[Location](Emoji Flag)
+[AnimePlanet](20 chars) 
+[Hummingbird](20 chars)
+[MyAnimeList](16 chars)
+[Twitch](25 chars) 
+[Youtube](20 chars)  
+[Bio](1000 chars)
+``` 
 ###Aliases:
 `None`
 ###Cooldown:  
@@ -129,19 +143,6 @@ Returns information about the inputted manga title using the **AniList Manga API
 ###Usage:
 `profile [user]` - Call users profile  
 `profile edit [field] [input]` - Edits the passed field  
-###Fields/Character Limits:
-`[Name] (32 chars)`  
-`[Status] (64 chars)`  
-`[Birthday] (16 chars)`  
-`[Age] (8 chars)`  
-`[Location] (Emoji Flag)`  
-`[AnimePlanet] (20 chars)`  
-`[Hummingbird] (20 chars)`  
-`[MyAnimeList] (16 chars)`  
-`[Twitch] (25 chars)`  
-`[Youtube] (20 chars)`  
-`[Bio] (1000 chars)`  
-
 
 
 #Quote
