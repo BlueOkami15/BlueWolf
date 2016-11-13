@@ -1,45 +1,55 @@
-Call
-===
+#Call
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Lenny
-===
+
+
+#Lenny
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-LetsPlay
-===
+
+
+#LetsPlay
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-SneakyLenny
-===
+
+
+#SneakyLenny
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-Weedle
-===
+
+
+#Weedle
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
-WewLad
-===
+
+
+#WewLad
+>
 ###Description:
 ###Aliases:
 ###Cooldown:  
