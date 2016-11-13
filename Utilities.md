@@ -103,3 +103,6 @@ Returns the **result of the expression** passed. **Keep in mind** `*` is used fo
 `True`
 ###Usage:  
 `roll [#d#] + ...`
+
+---
+*These commands are currently closed source.*
