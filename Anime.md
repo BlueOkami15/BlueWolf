@@ -169,7 +169,7 @@ Returns a random image of a smug face.
 ###Aliases:
 `None`
 ###Cooldown:  
-`2s`
+`5s`
 ###Delete On Use:  
 `False`
 ###Works in DM's:  
