@@ -1,6 +1,7 @@
 #Welcome to the Yuki-chan Bot Documentation
 
 ###"Problems that cannot be solved do not exist in this world." - *Yuki Nagato*
-![Yuki-chan](https://i.imgur.com/efvBcpO.png)
-
+<p align="center">
+  <img src="https://i.imgur.com/efvBcpO.png">
+</p>
 ###More pages may be found in the sidebar
