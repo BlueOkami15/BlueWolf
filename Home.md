@@ -4,4 +4,3 @@
 <p align="center">
   <img src="https://i.imgur.com/efvBcpO.png">
 </p>
-###More pages may be found in the sidebar
