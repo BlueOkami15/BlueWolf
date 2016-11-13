@@ -56,3 +56,6 @@
 ###Delete On Use:  
 ###Works in DM's:  
 ###Usage:  
+
+---
+*These commands are currently closed source.*
