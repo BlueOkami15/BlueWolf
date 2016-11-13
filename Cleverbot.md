@@ -15,7 +15,7 @@
 `@BotMention [text]`
 
 
-#Unprefixed Private Message
+#Unprefixed Direct Message
 >
 ###Description:
 **Chat** with the bot using the **Cleverbot API** in a **Direct Message**(Private message) **without** a prefix.
