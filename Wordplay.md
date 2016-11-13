@@ -1,3 +1,5 @@
+###These commands are currently closed source.
+
 #Pun
 >
 ###Description:
