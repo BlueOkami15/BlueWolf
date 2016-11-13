@@ -11,11 +11,16 @@ Returns a paged list of currently airing anime. Input the page number to see air
 ###Works in DM's:  
 `True`
 ###Usage:
-`airing [page number]`  
+`airing [page number]`
+  
 `airing [anime]`  
+
 `airing [day of week]`
+
 `airing today`
+
 `airing tomorrow`
+
 `airing`
 
 
