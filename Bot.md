@@ -64,7 +64,7 @@ Returns a **Patreon link** and a **Paypal link** which can be used to support th
 #FeatureRequest
 >
 ###Description:
-Send a **feature request** to the Bot Developer. Requests can have a max length of **1750 characters**. Meme & NSFW requests will be **ignored**.
+Send a **feature request** to the Bot Developer. Requests can have a max length of **1950 characters**. Meme & NSFW requests will be **ignored**.
 ###Aliases:
 `None`
 ###Cooldown:  
