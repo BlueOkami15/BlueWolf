@@ -21,7 +21,7 @@ Returns a **paged list** of **currently airing anime**. Input the page **number*
 #Anime
 >
 ###Description:
-Returns information about the inputted anime title using the **Hummingbird Anime API**. Defaults to **The Melancholy of Haruhi Suzumiya** if no arguments passed.
+Returns information about the inputted anime title using the **Hummingbird Anime API**. Defaults to **The Melancholy of Haruhi Suzumiya** if no arguments passed. **Requires** embedded links for this command to work properly.
 ###Aliases:
 `None`
 ###Cooldown:  
@@ -36,7 +36,7 @@ Returns information about the inputted anime title using the **Hummingbird Anime
 #Character
 >
 ###Description:
-Returns basic information about the inputted character using the **AniList Character API**. Defaults to **Yuki Nagato** if no arguments passed.
+Returns basic information about the inputted character using the **AniList Character API**. Defaults to **Yuki Nagato** if no arguments passed. **Requires** embedded links for this command to work properly.
 ###Aliases:
 `None`
 ###Cooldown:  
@@ -97,7 +97,7 @@ Returns an image to use **in case of lewdness**.
 #Manga
 >
 ###Description:
-Returns information about the inputted manga title using the **AniList Manga API**.
+Returns information about the inputted manga title using the **AniList Manga API**. Defaults to **Suzumiya Haruhi Series** if no arguments passed. **Requires** embedded links for this command to work properly.
 ###Aliases:
 `None`
 ###Cooldown:  
