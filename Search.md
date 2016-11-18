@@ -64,7 +64,7 @@ Returns an **Urban Dictionary** definition for the searched terms. Also includes
 #Weather
 >
 ###Description:
-Returns **Weather Information** for the inputted place using the **Open Weather Map API**. A country is **sometimes required** to return for the right location.
+Returns **Weather Information** for the inputted place using the **Open Weather Map API**. A country is **sometimes required** to return for the right location. **Requires** embedded links for this command to work properly.
 ###Aliases:
 `None`
 ###Cooldown:
