@@ -16,4 +16,4 @@
 
 **All previous** + I'll make a **custom wallpaper** for you to have and use.
   
-**Limit 5**
+**Limit 5 Donations**
