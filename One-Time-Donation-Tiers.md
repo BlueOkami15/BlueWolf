@@ -12,7 +12,7 @@
 ### $35 Source Code
 **All previous** + Full access to **Yuki-chan's** source code.
 
-### $50
+### $60 Custom Wallpaper
 
 **All previous** + I'll make a **custom wallpaper** for you to have and use.
   
